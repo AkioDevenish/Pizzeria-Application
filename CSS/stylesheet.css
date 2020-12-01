@@ -1,0 +1,145 @@
+*{
+  margin: 0px; 
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;  
+}
+  
+p{
+  font-family: 'Roboto', sans-serif;    
+}
+
+
+.Yuro-Font{
+  
+  font-family: 'Lobster', cursive;
+
+}
+
+.navbar{
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-nav > li{
+
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.navbar li > a{ 
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-item{
+  height:32rem;
+  background:#777;
+  color:black;
+  position: relative;
+  background-position:center;
+  background-size:cover;
+} 
+
+
+.carousel-caption {
+  text-shadow: #373a40  1px 0 10px;
+}
+
+.overlay-image-Banner-1{
+  background-image: url(../Images/Banner\ 1.jpg) ;
+  filter: blur(3px);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 80%;
+}
+
+
+.overlay-image-Banner-2{
+  background-image: url(../Images/Banner\ 2.jpg) ;
+  filter: blur(4px);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 80%;
+}
+
+
+.overlay-image-Banner-3{
+  background-image: url(../Images/Banner\ 3.jpg) ;
+  filter: blur(2px);
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   top: 0;
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   opacity: 80%;
+} 
+
+.text-center{
+  font-size: 26px;
+}
+
+
+p {
+  display: block;
+  font-size: 26px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+  .background{
+    background-image: url(../Images/lilypads.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:  center;
+    background-attachment: fixed;
+  }
+
+
+  hr{
+    background: white;	
+  }
+
+
+  .row{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .Customize-Pizza-Background {
+    background: rgba(0,0,0, .1);
+    color: white;
+    margin-top: 100px;
+    padding: 60px;
+    box-shadow: 0px 0px 10px 3px grey;
+  } 
+   
+  
+  .Customize-Pizza-Background {
+    background: rgba(0,0,0, .1);
+    color: white;
+    margin-top: 100px;
+    padding: 60px;
+    box-shadow: 0px 0px 10px 3px grey;
+  } 
